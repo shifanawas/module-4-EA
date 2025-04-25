@@ -2,9 +2,10 @@
   "name": "module-4-end-assignment",
   "version": "1.0.0",
   "main": "app.js",
+  "type": "module",
   "scripts": {
-    "start": "node app.js"
-  },
+  "start": "node app.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
